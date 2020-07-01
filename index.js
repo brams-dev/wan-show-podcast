@@ -41,6 +41,7 @@ function getPodcastUrl(info) {
 }
 
 function getContentLength(info) {
+	if (info.filesize === null) return fs.statSync(info._filename).size;
 	return info.filesize;
 }
 

@@ -338,7 +338,7 @@
 			</itunes:summary>
 			<itunes:image>https://ssl-static.libsyn.com/p/assets/3/e/e/a/3eeaed49a6b57573/WAN-iTunes-Square.jpg</itunes:image>
 			<itunes:explicit>no</itunes:explicit>
-			<enclosure url="http://wanshow.brams.dev/episodes/20130105_F6xzqkrFZnQ.m4a" length="null" type="audio/x-m4a"/>
+			<enclosure url="http://wanshow.brams.dev/episodes/20130105_F6xzqkrFZnQ.m4a" length="71020554" type="audio/x-m4a"/>
 			<guid><![CDATA[http://wanshow.brams.dev/episodes/20130105_F6xzqkrFZnQ.m4a?null]]>
 			</guid>
 			<pubDate>Sat, 5 Jan 2013 00:00:00 +0000</pubDate>
@@ -1112,7 +1112,7 @@
 			</itunes:summary>
 			<itunes:image>https://ssl-static.libsyn.com/p/assets/3/e/e/a/3eeaed49a6b57573/WAN-iTunes-Square.jpg</itunes:image>
 			<itunes:explicit>no</itunes:explicit>
-			<enclosure url="http://wanshow.brams.dev/episodes/20131116_E5nRbtYxY8c.m4a" length="null" type="audio/x-m4a"/>
+			<enclosure url="http://wanshow.brams.dev/episodes/20131116_E5nRbtYxY8c.m4a" length="83136296" type="audio/x-m4a"/>
 			<guid><![CDATA[http://wanshow.brams.dev/episodes/20131116_E5nRbtYxY8c.m4a?null]]>
 			</guid>
 			<pubDate>Sat, 16 Nov 2013 00:00:00 +0000</pubDate>
