@@ -201,7 +201,7 @@ fs.readdir(dir, (err, files) => {
 	}).sort();
 
 	const podcasts = files.map(file => {		
-		const info = JSON.parse(fs.readFileSync(dir + '\\' + file));
+		const info = JSON.parse(fs.readFileSync(dir + '/' + file));
 
 		return {
 			title: info.title,
