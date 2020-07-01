@@ -222,7 +222,7 @@ fs.readdir(dir, (err, files) => {
 	items = podcasts.map(getItemFromPodcast);
 
 	const xml = getXML(items);
-	fs.writeFile('feed.xml', xml, (err) => {
+	fs.writeFile('feed.rss', xml, (err) => {
 		console.log('written');
 		console.error(err);
 	});
