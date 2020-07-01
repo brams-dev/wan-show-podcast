@@ -38,7 +38,7 @@ function getDuration(duration) {
 
 function getPodcastUrl(info) {
 	const filename = info._filename.split('episodes')[1].slice(1);
-	return `http://aws.brams.dev/wanshow/episodes/${filename}`;
+	return `http://aws.brams.dev.s3.eu-west-3.amazonaws.com/wanshow/episodes/${filename}`;
 }
 
 function getContentLength(info) {
