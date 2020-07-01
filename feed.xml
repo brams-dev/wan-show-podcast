@@ -21,6 +21,7 @@
 		<itunes:category text="Leisure">
 			<itunes:category text="Video Games"/>
 		</itunes:category>
+		<itunes:explicit>no</itunes:explicit>
 		<item>
 			<title><![CDATA[August 31 2012 Live Google Hangout Q&A Session Linus Tech Tips]]>
 			</title>

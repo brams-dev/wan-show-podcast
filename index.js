@@ -177,6 +177,9 @@ function getXML(items) {
 						}
 					}
 				},
+				{
+					'itunes:explicit': 'no'
+				},
 				...items
 			]
 		}
