@@ -37,7 +37,7 @@ function getDuration(duration) {
 }
 
 function getPodcastUrl(info) {
-	return `http://wanshow.brams.dev/episode/${info._filename}`;
+	return `http://wanshow.brams.dev/episodes/${info._filename.split('episodes')[1].slice(1)}`;
 }
 
 function getContentLength() {
@@ -48,20 +48,24 @@ function getGUID(info) {
 	return `${getPodcastUrl(info)}?${info.filesize}`;
 }
 
+function escapeXMLChars(string) {
+	return `<![CDATA[${string}]]>`;
+}
+
 function getItemFromPodcast(podcast) {
 	return {
 		item: [
 			{
-				title: podcast.title
+				title: escapeXMLChars(podcast.title)
 			},
 			{
 				'itunes:author': podcast.author
 			},
 			{
-				'itunes:subtitle': podcast.subtitle
+				'itunes:subtitle': escapeXMLChars(podcast.subtitle)
 			},
 			{
-				'itunes:summary': podcast.summary
+				'itunes:summary': escapeXMLChars(podcast.summary)
 			},
 			{
 				'itunes:image': podcast.image
