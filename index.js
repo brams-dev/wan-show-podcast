@@ -40,7 +40,7 @@ function getPodcastUrl(info) {
 	return `http://wanshow.brams.dev/episodes/${info._filename.split('episodes')[1].slice(1)}`;
 }
 
-function getContentLength() {
+function getContentLength(info) {
 	return info.filesize;
 }
 
@@ -71,6 +71,9 @@ function getItemFromPodcast(podcast) {
 				'itunes:image': podcast.image
 			},
 			{
+				'itunes:explicit': 'no'
+			},
+			{
 				_name: 'enclosure',
 				_attrs: {
 					url: podcast.url,
@@ -79,13 +82,16 @@ function getItemFromPodcast(podcast) {
 				}
 			},
 			{
-				guid: podcast.guid
+				guid: escapeXMLChars(podcast.guid)
 			},
 			{
 				pubDate: podcast.date
 			},
 			{
 				'itunes:duration': podcast.duration
+			},
+			{
+				link: escapeXMLChars(podcast.url)
 			}
 		]
 	}
