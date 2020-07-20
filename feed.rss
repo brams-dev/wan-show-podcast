@@ -5944,5 +5944,41 @@
 			<link><![CDATA[http://s3.brams.dev/wanshow/episodes/20200703_hVPFNZtXegQ.m4a]]>
 			</link>
 		</item>
+		<item>
+			<title><![CDATA[Should I DELETE my Old Videos?? - WAN Show July 10, 2020]]>
+			</title>
+			<itunes:author>Linus Tech Tips</itunes:author>
+			<itunes:subtitle><![CDATA[The WAN Show Podcast]]>
+			</itunes:subtitle>
+			<itunes:summary><![CDATA[<p>Visit https://www.squarespace.com/WAN and use offer code WAN for 10% off Honey automatically applies the best coupon codes to save you money at different onl...</p>]]>
+			</itunes:summary>
+			<itunes:image>https://ssl-static.libsyn.com/p/assets/3/e/e/a/3eeaed49a6b57573/WAN-iTunes-Square.jpg</itunes:image>
+			<itunes:explicit>no</itunes:explicit>
+			<enclosure url="http://s3.brams.dev/wanshow/episodes/20200710_Ox-phY_86WE.m4a" length="79386558" type="audio/x-m4a"/>
+			<guid><![CDATA[http://s3.brams.dev/wanshow/episodes/20200710_Ox-phY_86WE.m4a?79386558]]>
+			</guid>
+			<pubDate>Fri, 10 Jul 2020 00:00:00 +0000</pubDate>
+			<itunes:duration>01:21:45</itunes:duration>
+			<link><![CDATA[http://s3.brams.dev/wanshow/episodes/20200710_Ox-phY_86WE.m4a]]>
+			</link>
+		</item>
+		<item>
+			<title><![CDATA[12K Cameras are COMING... Are you ready?? - WAN Show July 17, 2020]]>
+			</title>
+			<itunes:author>Linus Tech Tips</itunes:author>
+			<itunes:subtitle><![CDATA[The WAN Show Podcast]]>
+			</itunes:subtitle>
+			<itunes:summary><![CDATA[<p>Save 10% at Ridge Wallet with offer code LINUS at https://www.ridge.com/Linus Get a 15-day free trial for unlimited backup at https://backblaze.com/WAN Sign ...</p>]]>
+			</itunes:summary>
+			<itunes:image>https://ssl-static.libsyn.com/p/assets/3/e/e/a/3eeaed49a6b57573/WAN-iTunes-Square.jpg</itunes:image>
+			<itunes:explicit>no</itunes:explicit>
+			<enclosure url="http://s3.brams.dev/wanshow/episodes/20200717_A_1lGkbIx7M.m4a" length="55381102" type="audio/x-m4a"/>
+			<guid><![CDATA[http://s3.brams.dev/wanshow/episodes/20200717_A_1lGkbIx7M.m4a?55381102]]>
+			</guid>
+			<pubDate>Fri, 17 Jul 2020 00:00:00 +0000</pubDate>
+			<itunes:duration>57:02</itunes:duration>
+			<link><![CDATA[http://s3.brams.dev/wanshow/episodes/20200717_A_1lGkbIx7M.m4a]]>
+			</link>
+		</item>
 	</channel>
 </rss>
