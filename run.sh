@@ -1,4 +1,4 @@
 ./download.sh
 node index.js
-./aws_upload.sh
+./bunnycdn_upload.sh
 ./push.sh
