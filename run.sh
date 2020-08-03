@@ -8,7 +8,7 @@ echo "Start download"
 ./download.sh
 
 echo "Start processing"
-./index.js
+node index.js
 
 echo "Start upload"
 ./bunnycdn_upload.sh
