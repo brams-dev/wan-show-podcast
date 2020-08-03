@@ -5980,5 +5980,41 @@
 			<link><![CDATA[http://cdn.brams.dev/wanshow/episodes/20200717_A_1lGkbIx7M.m4a]]>
 			</link>
 		</item>
+		<item>
+			<title><![CDATA[Oh No Intel!! NOT AGAIN?? - WAN Show July 24, 2020]]>
+			</title>
+			<itunes:author>Linus Tech Tips</itunes:author>
+			<itunes:subtitle><![CDATA[The WAN Show Podcast]]>
+			</itunes:subtitle>
+			<itunes:summary><![CDATA[<p>Get a 15-day free trial for unlimited backup at https://backblaze.com/WAN Save 15% today with offer code WAN on Displate at https://lmg.gg/displatewan Sign u...</p>]]>
+			</itunes:summary>
+			<itunes:image>https://ssl-static.libsyn.com/p/assets/3/e/e/a/3eeaed49a6b57573/WAN-iTunes-Square.jpg</itunes:image>
+			<itunes:explicit>no</itunes:explicit>
+			<enclosure url="http://cdn.brams.dev/wanshow/episodes/20200724_kt78qhcnmQo.m4a" length="64728121" type="audio/x-m4a"/>
+			<guid><![CDATA[http://cdn.brams.dev/wanshow/episodes/20200724_kt78qhcnmQo.m4a?64728121]]>
+			</guid>
+			<pubDate>Fri, 24 Jul 2020 00:00:00 +0000</pubDate>
+			<itunes:duration>01:06:39</itunes:duration>
+			<link><![CDATA[http://cdn.brams.dev/wanshow/episodes/20200724_kt78qhcnmQo.m4a]]>
+			</link>
+		</item>
+		<item>
+			<title><![CDATA[iPhone 12 Delays. OH NO! - WAN Show July 31, 2020]]>
+			</title>
+			<itunes:author>Linus Tech Tips</itunes:author>
+			<itunes:subtitle><![CDATA[The WAN Show Podcast]]>
+			</itunes:subtitle>
+			<itunes:summary><![CDATA[<p>Use offer code LINUSTECH to get 15% off everything at https://lmg.gg/mosorganizer Sign up for Private Internet Access VPN at https://lmg.gg/piawan Save 15% t...</p>]]>
+			</itunes:summary>
+			<itunes:image>https://ssl-static.libsyn.com/p/assets/3/e/e/a/3eeaed49a6b57573/WAN-iTunes-Square.jpg</itunes:image>
+			<itunes:explicit>no</itunes:explicit>
+			<enclosure url="http://cdn.brams.dev/wanshow/episodes/20200731_QIDCwhXsmho.m4a" length="64633863" type="audio/x-m4a"/>
+			<guid><![CDATA[http://cdn.brams.dev/wanshow/episodes/20200731_QIDCwhXsmho.m4a?64633863]]>
+			</guid>
+			<pubDate>Fri, 31 Jul 2020 00:00:00 +0000</pubDate>
+			<itunes:duration>01:06:34</itunes:duration>
+			<link><![CDATA[http://cdn.brams.dev/wanshow/episodes/20200731_QIDCwhXsmho.m4a]]>
+			</link>
+		</item>
 	</channel>
 </rss>
