@@ -6034,5 +6034,23 @@
 			<link><![CDATA[http://cdn.brams.dev/wanshow/episodes/20200807_Rs4hTm6B9QQ.m4a]]>
 			</link>
 		</item>
+		<item>
+			<title><![CDATA[Fortnite vs Apple - WAN Show Aug 14, 2020]]>
+			</title>
+			<itunes:author>Linus Tech Tips</itunes:author>
+			<itunes:subtitle><![CDATA[The WAN Show Podcast]]>
+			</itunes:subtitle>
+			<itunes:summary><![CDATA[<p>Save 15% today with offer code WAN on Displate at https://lmg.gg/displatewan</p><p>Reserve Vessi's new Weekend Shoe for $5 at https://www.vessifootwear.com/wanshow</p><p>Sign up for Private Internet Access VPN at https://lmg.gg/piawan</p><p>Podcast Download: tbd</p><p>Timestamps: tbd</p>]]>
+			</itunes:summary>
+			<itunes:image>https://ssl-static.libsyn.com/p/assets/3/e/e/a/3eeaed49a6b57573/WAN-iTunes-Square.jpg</itunes:image>
+			<itunes:explicit>no</itunes:explicit>
+			<enclosure url="http://cdn.brams.dev/wanshow/episodes/20200814_Kp9PG5o-37o.m4a" length="62224672" type="audio/x-m4a"/>
+			<guid><![CDATA[http://cdn.brams.dev/wanshow/episodes/20200814_Kp9PG5o-37o.m4a?62224672]]>
+			</guid>
+			<pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
+			<itunes:duration>01:04:05</itunes:duration>
+			<link><![CDATA[http://cdn.brams.dev/wanshow/episodes/20200814_Kp9PG5o-37o.m4a]]>
+			</link>
+		</item>
 	</channel>
 </rss>
