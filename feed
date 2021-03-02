@@ -6538,5 +6538,23 @@
 			<link><![CDATA[http://cdn.brams.dev/wanshow/episodes/20210219_SjR1E7rNujQ.m4a]]>
 			</link>
 		</item>
+		<item>
+			<title><![CDATA[That Time my Channel Almost Got ACQUIRED - WAN Show February 26, 2021]]>
+			</title>
+			<itunes:author>Linus Tech Tips</itunes:author>
+			<itunes:subtitle><![CDATA[The WAN Show Podcast]]>
+			</itunes:subtitle>
+			<itunes:summary><![CDATA[<p>Check out Seasonic's PRIME 850 W Titanium on Amazon at https://lmg.gg/seasonicprime</p><p>Try FreshBooks free at https://freshbooks.com/wan</p><p>Get Private Internet Access VPN at https://lmg.gg/piawan</p><p>Podcast Download: https://anchor.fm/thewanshowpodcast/episodes/That-Time-my-Channel-Almost-Got-ACQUIRED---WAN-Show-February-26--2021-er9kii</p><p>Check out Carpool Critics, our new movie podcast: https://www.youtube.com/channel/UCt-oJR5teQIjOAxCmIQvcgA</p><p>Timestamps (Courtesy of Asa)</p><p>0:00 - Topics Introduced</p><p>2:10 - Intro</p><p>2:20 - Linus wants new intros (kind of)</p><p>4:00 - some LMG history as told by Linus</p><p>6:24 - Linus meets a company intrested in buying LMG</p><p>10:10 - Linus looks for old emails about the potential merger</p><p>13:00 - Linus decides he doesn't want to take the offer</p><p>15:52 - Linus likes the Spiffing Brit</p><p>16:44 - Main Topic 1: Biden & Semiconductors</p><p>20:51 - Nvidia is not your friend (and LMG is a corporation)</p><p>23:44 - Linus does the funny crying thing (press 3 on the keyboard)</p><p>26:15 - Nvidia's 3080 nerfs aren't effective</p><p>28:25 - c:/chat_is_hacking</p><p>30:53 - Nvidia says the 3080 ''cannot be hacked'</p><p>35:04 - Luke talks about Hardware Unboxed email</p><p>37:48 - Valve nevermind, sponsors!</p><p>42:16 - Luke's bird, Scoop, makes an appearance</p><p>45:43 - Main Topic 2: Apple v. Epic feat. Valve</p><p>50:46 - New LTTStore Shirt! (designed by Sarah) & Linus is making a solid gold controller</p><p>55:22 - Bling vs. Functionality</p><p>59:10 - Main Topic 3: "Silver Sparrow" Apple Malware</p><p>1:01:08 - Main Topic 4: Fry's Electronics closed</p><p>1:05:07 - Main Topic 5: Apple forced to show a "repairability score" in France</p><p>1:06:13 - Luke talks about Willow Video & Linus talks about the Basil Leaf</p><p>1:12:25 - Linus discusses the Basil Leaf''s closing, opening, and closing again</p><p>1:14:00 - Conclusion & Superchats</p>]]>
+			</itunes:summary>
+			<itunes:image>https://ssl-static.libsyn.com/p/assets/3/e/e/a/3eeaed49a6b57573/WAN-iTunes-Square.jpg</itunes:image>
+			<itunes:explicit>no</itunes:explicit>
+			<enclosure url="http://cdn.brams.dev/wanshow/episodes/20210226_Mzm1FJFXELE.m4a" length="76854288" type="audio/x-m4a"/>
+			<guid><![CDATA[http://cdn.brams.dev/wanshow/episodes/20210226_Mzm1FJFXELE.m4a?76854288]]>
+			</guid>
+			<pubDate>Fri, 26 Feb 2021 00:00:00 +0000</pubDate>
+			<itunes:duration>01:19:09</itunes:duration>
+			<link><![CDATA[http://cdn.brams.dev/wanshow/episodes/20210226_Mzm1FJFXELE.m4a]]>
+			</link>
+		</item>
 	</channel>
 </rss>
