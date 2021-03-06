@@ -6556,5 +6556,23 @@
 			<link><![CDATA[http://cdn.brams.dev/wanshow/episodes/20210226_Mzm1FJFXELE.m4a]]>
 			</link>
 		</item>
+		<item>
+			<title><![CDATA[You can buy Intel's Unreleased CPU RIGHT NOW - WAN Show March 5, 2021]]>
+			</title>
+			<itunes:author>Linus Tech Tips</itunes:author>
+			<itunes:subtitle><![CDATA[The WAN Show Podcast]]>
+			</itunes:subtitle>
+			<itunes:summary><![CDATA[<p>Visit https://www.squarespace.com/WAN and use offer code WAN for 10% off</p><p>Save 10% at Ridge Wallet with offer code WAN at https://www.ridge.com/WAN</p><p>Start your build today at https://www.buildredux.com/linus</p><p>Podcast Download: TBD</p><p>Check out Carpool Critics, our new movie podcast: https://www.youtube.com/channel/UCt-oJR5teQIjOAxCmIQvcgA</p><p>Timestamps TBD</p>]]>
+			</itunes:summary>
+			<itunes:image>https://ssl-static.libsyn.com/p/assets/3/e/e/a/3eeaed49a6b57573/WAN-iTunes-Square.jpg</itunes:image>
+			<itunes:explicit>no</itunes:explicit>
+			<enclosure url="http://cdn.brams.dev/wanshow/episodes/20210305_5A-gkT2uOeM.m4a" length="72894447" type="audio/x-m4a"/>
+			<guid><![CDATA[http://cdn.brams.dev/wanshow/episodes/20210305_5A-gkT2uOeM.m4a?72894447]]>
+			</guid>
+			<pubDate>Fri, 5 Mar 2021 00:00:00 +0000</pubDate>
+			<itunes:duration>01:15:05</itunes:duration>
+			<link><![CDATA[http://cdn.brams.dev/wanshow/episodes/20210305_5A-gkT2uOeM.m4a]]>
+			</link>
+		</item>
 	</channel>
 </rss>
