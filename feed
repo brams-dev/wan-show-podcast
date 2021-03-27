@@ -6610,5 +6610,23 @@
 			<link><![CDATA[http://cdn.brams.dev/wanshow/episodes/20210319_sdiJVkshMIg.m4a]]>
 			</link>
 		</item>
+		<item>
+			<title><![CDATA[Goodbye Discord!! - WAN Show March 26, 2021]]>
+			</title>
+			<itunes:author>Linus Tech Tips</itunes:author>
+			<itunes:subtitle><![CDATA[The WAN Show Podcast]]>
+			</itunes:subtitle>
+			<itunes:summary><![CDATA[<p>Sign up for Notion for free! http://bit.ly/wanshownotion</p><p>Take control of your end-of-life upgrade strategy with Extended Lifecycle Support services from CloudLinux at https://hubs.ly/H0JpBnj0</p><p>Get the CORSAIR K65 RGB Mini </p><p>On CORSAIR: https://geni.us/8fAd1Y</p><p>On Amazon (PAID LINK): https://geni.us/MB1aUMO</p><p>On Newegg (PAID LINK): https://geni.us/o5Zz</p><p>Podcast Download: TBD</p><p>Check out Carpool Critics, our new movie podcast: https://www.youtube.com/channel/UCt-oJR5teQIjOAxCmIQvcgA</p><p>Timestamps TBD</p>]]>
+			</itunes:summary>
+			<itunes:image>https://ssl-static.libsyn.com/p/assets/3/e/e/a/3eeaed49a6b57573/WAN-iTunes-Square.jpg</itunes:image>
+			<itunes:explicit>no</itunes:explicit>
+			<enclosure url="http://cdn.brams.dev/wanshow/episodes/20210326_ybCiD5Ju-xA.m4a" length="63491359" type="audio/x-m4a"/>
+			<guid><![CDATA[http://cdn.brams.dev/wanshow/episodes/20210326_ybCiD5Ju-xA.m4a?63491359]]>
+			</guid>
+			<pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
+			<itunes:duration>01:05:24</itunes:duration>
+			<link><![CDATA[http://cdn.brams.dev/wanshow/episodes/20210326_ybCiD5Ju-xA.m4a]]>
+			</link>
+		</item>
 	</channel>
 </rss>
