@@ -6664,5 +6664,23 @@
 			<link><![CDATA[http://cdn.brams.dev/wanshow/episodes/20210409_-qj6hkLkdYg.m4a]]>
 			</link>
 		</item>
+		<item>
+			<title><![CDATA[I Finally Started a Mac Channel.... - WAN Show April 16, 2021]]>
+			</title>
+			<itunes:author>Linus Tech Tips</itunes:author>
+			<itunes:subtitle><![CDATA[The WAN Show Podcast]]>
+			</itunes:subtitle>
+			<itunes:summary><![CDATA[<p>Use code LINUS10 for 10% off your Fantom Wallet at https://lmg.gg/FantomWAN</p><p>Visit https://www.squarespace.com/WAN and use offer code WAN for 10% off</p><p>Remotely monitor and manage your server or PC using Pulseway at https://lmg.gg/pulsewayteams </p><p>Podcast Download: TBD</p><p>Check out Mac Address, our new Apple channel at https://youtube.com/macaddress</p><p>Check out Carpool Critics, our new movie podcast: https://www.youtube.com/channel/UCt-oJR5teQIjOAxCmIQvcgA</p><p>Timestamps TBD</p>]]>
+			</itunes:summary>
+			<itunes:image>https://ssl-static.libsyn.com/p/assets/3/e/e/a/3eeaed49a6b57573/WAN-iTunes-Square.jpg</itunes:image>
+			<itunes:explicit>no</itunes:explicit>
+			<enclosure url="http://cdn.brams.dev/wanshow/episodes/20210416_U8J5DwHDbGA.m4a" length="96947640" type="audio/x-m4a"/>
+			<guid><![CDATA[http://cdn.brams.dev/wanshow/episodes/20210416_U8J5DwHDbGA.m4a?96947640]]>
+			</guid>
+			<pubDate>Fri, 16 Apr 2021 00:00:00 +0000</pubDate>
+			<itunes:duration>01:39:51</itunes:duration>
+			<link><![CDATA[http://cdn.brams.dev/wanshow/episodes/20210416_U8J5DwHDbGA.m4a]]>
+			</link>
+		</item>
 	</channel>
 </rss>
