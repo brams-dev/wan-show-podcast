@@ -6682,5 +6682,23 @@
 			<link><![CDATA[http://cdn.brams.dev/wanshow/episodes/20210416_U8J5DwHDbGA.m4a]]>
 			</link>
 		</item>
+		<item>
+			<title><![CDATA[Apple HULK SMASHES the Competition - WAN Show April 23, 2021]]>
+			</title>
+			<itunes:author>Linus Tech Tips</itunes:author>
+			<itunes:subtitle><![CDATA[The WAN Show Podcast]]>
+			</itunes:subtitle>
+			<itunes:summary><![CDATA[<p>Save 10% at Ridge Wallet with offer code WAN at https://www.ridge.com/WAN</p><p>Check out Seasonic's PRIME 850 W Titanium on Amazon at https://lmg.gg/seasonicprime</p><p>Get Private Internet Access VPN at https://lmg.gg/piawan</p><p>Podcast Download: TBD</p><p>Check out Carpool Critics, our new movie podcast: https://www.youtube.com/channel/UCt-oJR5teQIjOAxCmIQvcgA</p><p>Timestamps TBD</p>]]>
+			</itunes:summary>
+			<itunes:image>https://ssl-static.libsyn.com/p/assets/3/e/e/a/3eeaed49a6b57573/WAN-iTunes-Square.jpg</itunes:image>
+			<itunes:explicit>no</itunes:explicit>
+			<enclosure url="http://cdn.brams.dev/wanshow/episodes/20210423_K2u4-w5Ioco.m4a" length="75496698" type="audio/x-m4a"/>
+			<guid><![CDATA[http://cdn.brams.dev/wanshow/episodes/20210423_K2u4-w5Ioco.m4a?75496698]]>
+			</guid>
+			<pubDate>Fri, 23 Apr 2021 00:00:00 +0000</pubDate>
+			<itunes:duration>01:17:45</itunes:duration>
+			<link><![CDATA[http://cdn.brams.dev/wanshow/episodes/20210423_K2u4-w5Ioco.m4a]]>
+			</link>
+		</item>
 	</channel>
 </rss>
