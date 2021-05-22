@@ -6754,5 +6754,23 @@
 			<link><![CDATA[http://cdn.brams.dev/wanshow/episodes/20210514_7j-lragZcKs.m4a]]>
 			</link>
 		</item>
+		<item>
+			<title><![CDATA[Apple's 40-Core Desktop is Coming...AND SO AM I! - WAN Show May 21, 2021]]>
+			</title>
+			<itunes:author>Linus Tech Tips</itunes:author>
+			<itunes:subtitle><![CDATA[The WAN Show Podcast]]>
+			</itunes:subtitle>
+			<itunes:summary><![CDATA[<p>Get a $100 60-day credit on your new account at: http://linode.com/wan</p><p>Buy the CORSAIR Virtuoso RGB Wireless XT at https://geni.us/FWcQW</p><p>On Amazon (PAID LINK): https://geni.us/Tz9fbvJ</p><p>Get your virtual desktop today at https://lmg.gg/ShellsWAN</p><p>Podcast Download: TBD</p><p>Check out Other Podcasts:</p><p>Carpool Critics Movie Podcast: https://www.youtube.com/channel/UCt-oJR5teQIjOAxCmIQvcgA</p><p>Timestamps TBD</p>]]>
+			</itunes:summary>
+			<itunes:image>https://ssl-static.libsyn.com/p/assets/3/e/e/a/3eeaed49a6b57573/WAN-iTunes-Square.jpg</itunes:image>
+			<itunes:explicit>no</itunes:explicit>
+			<enclosure url="http://cdn.brams.dev/wanshow/episodes/20210521_v_DOqdyZEG0.m4a" length="64534623" type="audio/x-m4a"/>
+			<guid><![CDATA[http://cdn.brams.dev/wanshow/episodes/20210521_v_DOqdyZEG0.m4a?64534623]]>
+			</guid>
+			<pubDate>Fri, 21 May 2021 00:00:00 +0000</pubDate>
+			<itunes:duration>01:06:28</itunes:duration>
+			<link><![CDATA[http://cdn.brams.dev/wanshow/episodes/20210521_v_DOqdyZEG0.m4a]]>
+			</link>
+		</item>
 	</channel>
 </rss>
