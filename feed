@@ -6772,5 +6772,41 @@
 			<link><![CDATA[http://cdn.brams.dev/wanshow/episodes/20210521_v_DOqdyZEG0.m4a]]>
 			</link>
 		</item>
+		<item>
+			<title><![CDATA[AMD's New CPU Socket Just Leaked! - WAN Show May 28, 2021]]>
+			</title>
+			<itunes:author>Linus Tech Tips</itunes:author>
+			<itunes:subtitle><![CDATA[The WAN Show Podcast]]>
+			</itunes:subtitle>
+			<itunes:summary><![CDATA[<p>Enter PDFelement Giveaway: https://bit.ly/3422y8f </p><p>Download PDFelement: https://bit.ly/2Q8u6FD</p><p>Buy PDFelement with 50% off: https://bit.ly/2RDM8QK</p><p>Pre Order your Anker Nano II Charger today: https://lmg.gg/rN4pD</p><p>Get your .TECH domain and help children get their start in computer science at: https://go.tech/WAN</p><p>Podcast Download: TBD</p><p>Check out Other Podcasts:</p><p>Carpool Critics Movie Podcast: https://www.youtube.com/channel/UCt-oJR5teQIjOAxCmIQvcgA</p><p>Timestamps TBD</p>]]>
+			</itunes:summary>
+			<itunes:image>https://ssl-static.libsyn.com/p/assets/3/e/e/a/3eeaed49a6b57573/WAN-iTunes-Square.jpg</itunes:image>
+			<itunes:explicit>no</itunes:explicit>
+			<enclosure url="http://cdn.brams.dev/wanshow/episodes/20210528_-4u8_6TJPiQ.m4a" length="79846997" type="audio/x-m4a"/>
+			<guid><![CDATA[http://cdn.brams.dev/wanshow/episodes/20210528_-4u8_6TJPiQ.m4a?79846997]]>
+			</guid>
+			<pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
+			<itunes:duration>01:22:14</itunes:duration>
+			<link><![CDATA[http://cdn.brams.dev/wanshow/episodes/20210528_-4u8_6TJPiQ.m4a]]>
+			</link>
+		</item>
+		<item>
+			<title><![CDATA[Addressing my Bad Take on RTX 3080 Ti - WAN Show Jun 4, 2021]]>
+			</title>
+			<itunes:author>Linus Tech Tips</itunes:author>
+			<itunes:subtitle><![CDATA[The WAN Show Podcast]]>
+			</itunes:subtitle>
+			<itunes:summary><![CDATA[<p>Help your IT team take care of support, maintenance, and security for Enterprise Linux systems with TuxCare at https://hubs.ly/H0NDWk10</p><p>Save 10% at Ridge Wallet with offer code WAN at https://www.ridge.com/WAN</p><p>Buy a Seasonic Ultra Titanium PSU</p><p>On Amazon: https://geni.us/q4lnefC</p><p>On Newegg: https://lmg.gg/8KV3S</p><p>Podcast Download: TBD</p><p>Check out Other Podcasts:</p><p>Carpool Critics Movie Podcast: https://www.youtube.com/channel/UCt-oJR5teQIjOAxCmIQvcgA</p><p>Timestamps TBD</p>]]>
+			</itunes:summary>
+			<itunes:image>https://ssl-static.libsyn.com/p/assets/3/e/e/a/3eeaed49a6b57573/WAN-iTunes-Square.jpg</itunes:image>
+			<itunes:explicit>no</itunes:explicit>
+			<enclosure url="http://cdn.brams.dev/wanshow/episodes/20210604_PkJYWMStLRA.m4a" length="95608922" type="audio/x-m4a"/>
+			<guid><![CDATA[http://cdn.brams.dev/wanshow/episodes/20210604_PkJYWMStLRA.m4a?95608922]]>
+			</guid>
+			<pubDate>Fri, 4 Jun 2021 00:00:00 +0000</pubDate>
+			<itunes:duration>01:38:28</itunes:duration>
+			<link><![CDATA[http://cdn.brams.dev/wanshow/episodes/20210604_PkJYWMStLRA.m4a]]>
+			</link>
+		</item>
 	</channel>
 </rss>
