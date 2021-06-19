@@ -6826,5 +6826,23 @@
 			<link><![CDATA[http://cdn.brams.dev/wanshow/episodes/20210611_D10gTfBLrwg.m4a]]>
 			</link>
 		</item>
+		<item>
+			<title><![CDATA[Looks Like NVIDIA Lied.... - WAN Show Jun 18, 2021]]>
+			</title>
+			<itunes:author>Linus Tech Tips</itunes:author>
+			<itunes:subtitle><![CDATA[The WAN Show Podcast]]>
+			</itunes:subtitle>
+			<itunes:summary><![CDATA[<p>Check out the EPOS B20 Streaming Microphone at https://lmg.gg/B20LTT</p><p>Try Pulseway for free and start remotely monitoring and managing your server or PC at https://geni.us/pulseway </p><p>Save 10% at Ridge Wallet with offer code WAN at https://www.ridge.com/WAN </p><p>Podcast Download: TBD</p><p>Check out our other Podcasts:</p><p>Carpool Critics Movie Podcast: https://www.youtube.com/channel/UCt-oJR5teQIjOAxCmIQvcgA</p><p>Timestamps TBD</p>]]>
+			</itunes:summary>
+			<itunes:image>https://ssl-static.libsyn.com/p/assets/3/e/e/a/3eeaed49a6b57573/WAN-iTunes-Square.jpg</itunes:image>
+			<itunes:explicit>no</itunes:explicit>
+			<enclosure url="http://cdn.brams.dev/wanshow/episodes/20210618_XEyHiU6djE0.m4a" length="102761811" type="audio/x-m4a"/>
+			<guid><![CDATA[http://cdn.brams.dev/wanshow/episodes/20210618_XEyHiU6djE0.m4a?102761811]]>
+			</guid>
+			<pubDate>Fri, 18 Jun 2021 00:00:00 +0000</pubDate>
+			<itunes:duration>01:45:50</itunes:duration>
+			<link><![CDATA[http://cdn.brams.dev/wanshow/episodes/20210618_XEyHiU6djE0.m4a]]>
+			</link>
+		</item>
 	</channel>
 </rss>
