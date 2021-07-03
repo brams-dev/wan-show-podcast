@@ -6862,5 +6862,23 @@
 			<link><![CDATA[http://cdn.brams.dev/wanshow/episodes/20210625_RQl4FoFT3ws.m4a]]>
 			</link>
 		</item>
+		<item>
+			<title><![CDATA[3nm CPUs Are Coming! - WAN Show July 2, 2021]]>
+			</title>
+			<itunes:author>Linus Tech Tips</itunes:author>
+			<itunes:subtitle><![CDATA[The WAN Show Podcast]]>
+			</itunes:subtitle>
+			<itunes:summary><![CDATA[<p>Start your build today at https://www.buildredux.com/linus</p><p>Honey automatically applies the best coupon codes to save you money at </p><p>different online checkouts, try it now at https://www.joinhoney.com/linus</p><p>Save 10% at Ridge Wallet with offer code WAN at https://www.ridge.com/WAN </p><p>Podcast Download: TBD</p><p>Check out our other Podcasts:</p><p>Carpool Critics Movie Podcast: https://www.youtube.com/channel/UCt-oJR5teQIjOAxCmIQvcgA</p><p>Timestamps TBD</p>]]>
+			</itunes:summary>
+			<itunes:image>https://ssl-static.libsyn.com/p/assets/3/e/e/a/3eeaed49a6b57573/WAN-iTunes-Square.jpg</itunes:image>
+			<itunes:explicit>no</itunes:explicit>
+			<enclosure url="http://cdn.brams.dev/wanshow/episodes/20210702_NCYNftA4EYM.m4a" length="54122748" type="audio/x-m4a"/>
+			<guid><![CDATA[http://cdn.brams.dev/wanshow/episodes/20210702_NCYNftA4EYM.m4a?54122748]]>
+			</guid>
+			<pubDate>Fri, 2 Jul 2021 00:00:00 +0000</pubDate>
+			<itunes:duration>55:45</itunes:duration>
+			<link><![CDATA[http://cdn.brams.dev/wanshow/episodes/20210702_NCYNftA4EYM.m4a]]>
+			</link>
+		</item>
 	</channel>
 </rss>
