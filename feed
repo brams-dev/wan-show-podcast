@@ -6898,5 +6898,23 @@
 			<link><![CDATA[http://cdn.brams.dev/wanshow/episodes/20210709_OvjrZprxGio.m4a]]>
 			</link>
 		</item>
+		<item>
+			<title><![CDATA[The Most Exciting Gaming PC in YEARS - WAN Show July 16, 2021]]>
+			</title>
+			<itunes:author>Linus Tech Tips</itunes:author>
+			<itunes:subtitle><![CDATA[The WAN Show Podcast]]>
+			</itunes:subtitle>
+			<itunes:summary><![CDATA[<p>Visit https://www.squarespace.com/WAN and use offer code WAN for 10% off</p><p>Try Pulseway for free and start remotely monitoring and managing your server or PC at https://geni.us/pulseway</p><p>Save 10% at Ridge Wallet with offer code WAN at https://www.ridge.com/WAN</p><p>Podcast Download: https://anchor.fm/thewanshowpodcast/episodes/The-Most-Exciting-Gaming-PC-in-YEARS---WAN-Show-July-16--2021-e14n0jd</p><p>Check out our other Podcasts:</p><p>Carpool Critics Movie Podcast: https://www.youtube.com/channel/UCt-oJR5teQIjOAxCmIQvcgA</p><p>Timestamps (Courtesy of Chico Veinte Minutos):</p><p>0:00 Presentation</p><p>1:16 Intro</p><p>1:47 Steam Deck</p><p>38:29 GitHub Co-Pilot</p><p>47:18 Sponsors</p><p>49:57 TSMC exploring new ways to cool silicon chips</p><p>53:30 Intel is in talks to buy Global Foundries</p><p>56:02 AMD Fidelity FX is now Open Source</p><p>58:20 Microsoft announces Windows 360</p><p>1:00:00 Alder Lake Leak</p><p>1:03:50 Reprint of the old LTT underwear</p><p>1:04:40 "Gaming" on Netflix</p><p>1:05:11 Superchats</p><p>1:13:25 Steam Deck RDNA 2 Graphics Mention</p>]]>
+			</itunes:summary>
+			<itunes:image>https://ssl-static.libsyn.com/p/assets/3/e/e/a/3eeaed49a6b57573/WAN-iTunes-Square.jpg</itunes:image>
+			<itunes:explicit>no</itunes:explicit>
+			<enclosure url="http://cdn.brams.dev/wanshow/episodes/20210716_60NGxX7m1Mw.m4a" length="78130327" type="audio/x-m4a"/>
+			<guid><![CDATA[http://cdn.brams.dev/wanshow/episodes/20210716_60NGxX7m1Mw.m4a?78130327]]>
+			</guid>
+			<pubDate>Fri, 16 Jul 2021 00:00:00 +0000</pubDate>
+			<itunes:duration>01:20:28</itunes:duration>
+			<link><![CDATA[http://cdn.brams.dev/wanshow/episodes/20210716_60NGxX7m1Mw.m4a]]>
+			</link>
+		</item>
 	</channel>
 </rss>
