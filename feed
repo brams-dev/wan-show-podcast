@@ -7078,5 +7078,23 @@
 			<link><![CDATA[http://cdn.brams.dev/wanshow/episodes/20210917_jPidIspifRM.m4a]]>
 			</link>
 		</item>
+		<item>
+			<title><![CDATA[Valve Did the IMPOSSIBLE... Anti-Cheat on Linux - WAN Show September 24, 2021]]>
+			</title>
+			<itunes:author>Linus Tech Tips</itunes:author>
+			<itunes:subtitle><![CDATA[The WAN Show Podcast]]>
+			</itunes:subtitle>
+			<itunes:summary><![CDATA[<p>Try JumpCloud for free at https://cloud.jumpcloud.com/WANshow</p><p>Try TuxCare and change the way you address patching concerns with rebootless QEMU/KVM patching at https://hubs.ly/H0X1rWt0</p><p>Buy a Seasonic Ultra Titanium PSU</p><p>On Amazon: https://geni.us/q4lnefC</p><p>On NewEgg: https://lmg.gg/8KV3S</p><p>Podcast Download: https://anchor.fm/thewanshowpodcast/episodes/Valve-Did-the-IMPOSSIBLE----Anti-Cheat-on-Linux---WAN-Show-September-24--2021-e17v8lu</p><p>Check out our other Podcasts:</p><p>Carpool Critics Movie Podcast: https://www.youtube.com/channel/UCt-oJR5teQIjOAxCmIQvcgA</p><p>Timestamps (Courtesy of NoKi1119)</p><p>[0:00] Chapters</p><p>[0:57] Intro</p><p>[1:32] Topic #1: Valve's anti-cheat on Linux.</p><p>    2:30 Supported games.</p><p>    4:57 Steam Deck's effect on the market.</p><p>    11:22 Discussing true identification.</p><p>    15:12 Issues with the validation.</p><p>    20:41 Supported AC does not guarantee games working.</p><p>    21:17 Linux installation competition video idea.</p><p>[24:32] Sponsors.</p><p>    24:39 TuxCare QEMU VM care.</p><p>    25:44 Jumpcloud management & security.</p><p>    26:10 SeaSonic's power supplies.</p><p>[26:50] Topic #2: EU enforcing USB-C on devices.</p><p>    28:51 Apple Watch 7 has 60.5 GHz wireless transfer.</p><p>    32:01 Is wireless charging the end of cables?</p><p>[35:41] Topic #3: Microsoft's Surface laptop Studio.</p><p>    37:32 Specifications.</p><p>    38:58 New Surface Duo 2.</p><p>[40:45] Topic #4: Super Mario Brothers movie & voice-over cast.</p><p>[42:58] Topic #5: China bans cryptocurrencies, BTC value drops.</p><p>[46:00] Superchats.</p><p>[48:05] Wrapping up.</p><p>[48:10] Outro.</p>]]>
+			</itunes:summary>
+			<itunes:image>https://ssl-static.libsyn.com/p/assets/3/e/e/a/3eeaed49a6b57573/WAN-iTunes-Square.jpg</itunes:image>
+			<itunes:explicit>no</itunes:explicit>
+			<enclosure url="http://cdn.brams.dev/wanshow/episodes/20210924_eF6asPd0KJs.m4a" length="47077848" type="audio/x-m4a"/>
+			<guid><![CDATA[http://cdn.brams.dev/wanshow/episodes/20210924_eF6asPd0KJs.m4a?47077848]]>
+			</guid>
+			<pubDate>Fri, 24 Sep 2021 00:00:00 +0000</pubDate>
+			<itunes:duration>48:29</itunes:duration>
+			<link><![CDATA[http://cdn.brams.dev/wanshow/episodes/20210924_eF6asPd0KJs.m4a]]>
+			</link>
+		</item>
 	</channel>
 </rss>
