@@ -7096,5 +7096,23 @@
 			<link><![CDATA[http://cdn.brams.dev/wanshow/episodes/20210924_eF6asPd0KJs.m4a]]>
 			</link>
 		</item>
+		<item>
+			<title><![CDATA[Pre-Built PCs Are About to get MUCH Worse - WAN Show October 1, 2021]]>
+			</title>
+			<itunes:author>Linus Tech Tips</itunes:author>
+			<itunes:subtitle><![CDATA[The WAN Show Podcast]]>
+			</itunes:subtitle>
+			<itunes:summary><![CDATA[<p>Change the way you address patching concerns with rebootless QEMU/KVM patching at https://hubs.ly/H0X1rWt0</p><p>Get 30% off list price and 30% off onboarding at http://www.graphus.ai/linus</p><p>Save 10% off your Savage Jerky order today with code WANSHOW21 at http://savagejerky.com/ltt</p><p>Podcast Download: https://anchor.fm/thewanshowpodcast/episodes/Pre-Built-PCs-Are-About-to-get-MUCH-Worse---WAN-Show-October-1--2021-e18a37r</p><p>Check out our other Podcasts:</p><p>Carpool Critics Movie Podcast: https://www.youtube.com/channel/UCt-oJR5teQIjOAxCmIQvcgA</p><p>Timestamps (Courtesy of NoKi1119)</p><p>[0:00] Chapters.</p><p>[1:21] Intro.</p><p>[1:51] Topic #1: Windows 11 VBS harms gaming performance.</p><p>    3:18 Virtual machine & hardware issues.</p><p>    7:46 Affected games & change in performance.</p><p>    9:52 VBS is not mandated on custom builds.</p><p>    13:03 Switching to Linux challenge.</p><p>    17:32 Issues with daily driving Linux.</p><p>    20:15 Polling which distro to use.</p><p>[25:23] Sponsors.</p><p>    25:27 TuxCare QEMU & KVM patching.</p><p>    27:01 Graphus anti phishing cloud software.</p><p>    28:22 Savage Jerky.</p><p>[32:27] Topic #2: Valve's "Deckard" VR headset.</p><p>    35:11 Going standalone in the VR market.</p><p>    37:46 Pricing of Valve products.</p><p>    42:37 Poll: Which Distro should Linus use?</p><p>    45:22 Tim Cook meeting with EU competition chief.</p><p>[46:48] Topic #3: Amazon's "Astro" house robot.</p><p>    48:24 Criticism towards the robot.</p><p>    48:52 Pricing & specs.</p><p>[52:06] LTTstore new merch & site redesign.</p><p>[52:56] Superchats.</p><p>[57:20] Topic #4: Asus's RTX 3070 with Noctua fans.</p><p>[58:20] Topic #5: Silicon Lottery closing.</p><p>[59:14] Topic #6: Steam disables downloading older builds.</p><p>[1:00:27] Topic #7: Dune Case has not shipped yet.</p><p>[1:01:04] Outro.</p>]]>
+			</itunes:summary>
+			<itunes:image>https://ssl-static.libsyn.com/p/assets/3/e/e/a/3eeaed49a6b57573/WAN-iTunes-Square.jpg</itunes:image>
+			<itunes:explicit>no</itunes:explicit>
+			<enclosure url="http://cdn.brams.dev/wanshow/episodes/20211001_PvTCc0iXGcQ.m4a" length="59866924" type="audio/x-m4a"/>
+			<guid><![CDATA[http://cdn.brams.dev/wanshow/episodes/20211001_PvTCc0iXGcQ.m4a?59866924]]>
+			</guid>
+			<pubDate>Fri, 1 Oct 2021 00:00:00 +0000</pubDate>
+			<itunes:duration>01:01:39</itunes:duration>
+			<link><![CDATA[http://cdn.brams.dev/wanshow/episodes/20211001_PvTCc0iXGcQ.m4a]]>
+			</link>
+		</item>
 	</channel>
 </rss>
